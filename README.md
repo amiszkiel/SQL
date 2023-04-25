@@ -6,6 +6,8 @@ My excercises from northwind database 💻 &#128200;
 
 ![relations](relations.jpg)
 
+## Tasks done by me:
+
 <p><b> 1. List of products which price is higher than 100. </b></p>
 
 ![ex.1 code](ex1.code.jpg)
