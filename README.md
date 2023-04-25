@@ -11,21 +11,15 @@ My excercises from northwind database 💻 &#128200;
 ![ex.1 code](ex1.code.jpg)
 ![ex.1 table](ex1.table.jpg)
 
-<hr>
-
 <p><b> 2. List of employees sorted by name in ascending order. </b></p>
 
 ![ex.2 code](ex2.code.jpg)
 
 ![ex.2 table](ex.2.table.jpg)
 
-<hr>
-
 <p><b> 3. List of customer and contact names sorted by customer name. </b></p>
 
 ![ex.3](ex.3.jpg)
-
-<hr>
 
 <p><b> 4. List of employees grouped by country. Fields country and number of people from a given country. </b></p>
 
