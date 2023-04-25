@@ -1,6 +1,6 @@
 # SQL
 
-My excercises from northwind database 💻 &#128202; 
+My excercises from northwind database 💻 &#128200;
 
 ## Database's relations
 
