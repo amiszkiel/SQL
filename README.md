@@ -14,19 +14,20 @@ My excercises from northwind database
 <p><b> 2. List of employees sorted by name in ascending order. </b></p>
 
 ![ex.2 code](ex2.code.jpg)
+
 ![ex.2 table](ex.2.table.jpg)
 
 <p><b> 3. List of customer and contact names sorted by customer name. </b></p>
 
-![ex.3](ex3.jpg)
+![ex.3](ex.3.jpg)
 
 <p><b> 4. List of employees grouped by country. Fields country and number of people from a given country. </b></p>
 
-![ex.4](ex4.jpg)
+![ex.4](ex.4.jpg)
 
 <p><b> 5. Lista zamówień z ilością pozycji na zamówieniu. </b></p>
 
-![ex.5](ex5.jpg)
+![ex.5](ex.5.jpg)
 
 <p><b> 6. List of the 10 most expensive items from all orders. </b></p>
 
