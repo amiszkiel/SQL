@@ -45,3 +45,7 @@ My excercises from northwind database
 <p>IN</p>
 
 ![ex.8- IN](ex.8-exists.jpg)
+
+<p><b> 9. Display the category_name and company_name columns from the suppliers and categories table in one column.</b></p>
+
+![ex.9](ex.9.jpg)
