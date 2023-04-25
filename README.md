@@ -25,7 +25,7 @@ My excercises from northwind database 💻 &#128200;
 
 ![ex.4](ex.4.jpg)
 
-<p><b> 5. Lista zamówień z ilością pozycji na zamówieniu. </b></p>
+<p><b> 5. List of orders with the number of items on the order. </b></p>
 
 ![ex.5](ex.5.jpg)
 
