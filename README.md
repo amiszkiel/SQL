@@ -6,7 +6,7 @@ My excercises from northwind database
 
 ![relations](relations.jpg)
 
-## 1.List of products which price is higher than 100.
+<h2> 1. List of products which price is higher than 100. </h2>
 
 ![ex.1 code](ex1.code.jpg)
 
