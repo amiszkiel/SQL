@@ -1,6 +1,6 @@
 # SQL
 
-My excercises from northwind database 💻 &#128200;
+My SQL exercises done so far in PostgreSQL 💻 &#128200;
 
 ## Database's relations
 
