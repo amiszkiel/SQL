@@ -52,3 +52,41 @@ My SQL exercises done so far in PostgreSQL 💻 &#128200;
 <p><b> 9. Display the category_name and company_name columns from the suppliers and categories table in one column.</b></p>
 
 ![ex.9](ex.9.jpg)
+
+<p><b> 10. What are the most valuable orders?
+Display: order id, company customer, order date, quantity
+order items, order amounts, and placing worker
+to order. Show rows greater than and equal to 10000, sorted
+from the latest date. </b></p>
+
+![ex.10](ex.10.jpg)
+
+<p><b> 11. Which of products we sell the most quantity? 
+Display: product name, supplier name, product quantity in stock, product value in stock, show only current products sorted by the highest value of products on orders. </b></p>
+
+![ex.11](ex.11.jpg)
+
+<p><b> 12. Insert into "us_states" table new data.
+state_id = 122,
+state_name= podlaskie,
+state_region= wschód,
+state_abbr= PD; </b></p>
+
+![ex.12](ex.12.jpg)
+
+<p><b> 13. Change state_name from "Alabama" to "Alibaba" in "us_states" table. </b></p>
+
+![ex.13](ex.13.jpg)
+
+<p><b> 14. Remove all records with id>100 from "us_states" table. </b></p>
+
+![ex.14](ex.14.jpg)
+
+<p></b> 15. In the us_states table, change all state_abbr values ​​to uppercase. </b></p>
+
+![ex.15](ex.15.jpg)
+
+<p></b> 16. Remove from us_states table all records started with "w" letter. </b></p>
+
+![ex.16-1](ex.16-1.jpg)
+![ex.16-2](ex.16-2.jpg)
